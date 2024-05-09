@@ -1,0 +1,87 @@
+[
+    {
+        "title": "TOYOTA ETIOS",
+        "description": "1.5 X PLUS 16V FLEX 4P AUTOM\u00c1TICO",
+        "price": "R$ 70.500"
+    },
+    {
+        "title": "JEEP COMPASS",
+        "description": "2.0 16V FLEX LONGITUDE AUTOM\u00c1TICO",
+        "price": "R$ 97.900"
+    },
+    {
+        "title": "HONDA CIVIC",
+        "description": "2.0 16V FLEXONE EXL 4P CVT",
+        "price": "R$ 128.900"
+    },
+    {
+        "title": "HONDA CIVIC",
+        "description": "2.0 EXR 16V FLEX 4P AUTOM\u00c1TICO",
+        "price": "R$ 72.900"
+    },
+    {
+        "title": "FIAT TORO",
+        "description": "1.3 TURBO 270 FLEX FREEDOM AT6",
+        "price": "R$ 121.900"
+    },
+    {
+        "title": "NISSAN KICKS",
+        "description": "1.6 16V FLEXSTART EXCLUSIVE XTRONIC",
+        "price": "R$ 110.900"
+    },
+    {
+        "title": "VOLKSWAGEN T-CROSS",
+        "description": "1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOM\u00c1TICO",
+        "price": "R$ 112.900"
+    },
+    {
+        "title": "RENAULT CAPTUR",
+        "description": "1.3 TCE FLEX ICONIC X-TRONIC",
+        "price": "R$ 108.900"
+    },
+    {
+        "title": "VOLKSWAGEN T-CROSS",
+        "description": "1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOM\u00c1TICO",
+        "price": "R$ 123.900"
+    },
+    {
+        "title": "CAOA CHERY QQ",
+        "description": "1.1 MPFI 16V GASOLINA 4P MANUAL",
+        "price": "R$ 25.900"
+    },
+    {
+        "title": "FIAT MOBI",
+        "description": "1.0 EVO FLEX LIKE. MANUAL",
+        "price": "R$ 49.200"
+    },
+    {
+        "title": "JEEP COMPASS",
+        "description": "2.0 16V FLEX LONGITUDE AUTOM\u00c1TICO",
+        "price": "R$ 97.900"
+    },
+    {
+        "title": "FIAT MOBI",
+        "description": "1.0 EVO FLEX LIKE. MANUAL",
+        "price": "R$ 55.900"
+    },
+    {
+        "title": "VOLKSWAGEN NIVUS",
+        "description": "1.0 200 TSI TOTAL FLEX HIGHLINE AUTOM\u00c1TICO",
+        "price": "R$ 111.900"
+    },
+    {
+        "title": "VOLKSWAGEN NIVUS",
+        "description": "1.0 200 TSI TOTAL FLEX HIGHLINE AUTOM\u00c1TICO",
+        "price": "R$ 110.900"
+    },
+    {
+        "title": "VOLKSWAGEN T-CROSS",
+        "description": "1.0 200 TSI TOTAL FLEX COMFORTLINE AUTOM\u00c1TICO",
+        "price": "R$ 98.900"
+    },
+    {
+        "title": "HYUNDAI HB20",
+        "description": "1.6 PREMIUM 16V FLEX 4P AUTOM\u00c1TICO",
+        "price": "R$ 69.900"
+    }
+]
